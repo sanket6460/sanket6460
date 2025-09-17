@@ -1,7 +1,7 @@
 💫 About Me:
 
 - 👋 Hi, I’m Sanket Pandit  
-- 💻 AI & Data Engineering Enthusiast skilled in Python, Java, MSSQL, Linux, Hadoop, Hive & HBase  
+- 💻 AI & Data Engineering Enthusiast skilled in Python, Java, MYSQL, Linux, Hadoop, Hive & HBase  
 - 📚 Learning advanced AI-ML, Data Structures & scalable system design  
 - 🚀 Passionate about building intelligent systems, data pipelines & real-world solutions  
 - ⚡ Fun fact: I love hackathons and coding challenges  
